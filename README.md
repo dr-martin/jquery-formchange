@@ -1,2 +1,2 @@
-# jquery.formchange
+# jquery-formchange
 jquery.formchange
